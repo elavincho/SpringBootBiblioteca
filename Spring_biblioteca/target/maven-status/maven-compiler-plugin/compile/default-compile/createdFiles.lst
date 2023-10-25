@@ -1,0 +1,15 @@
+com\elavinchoweb\biblioteca\servicios\LibroServicio.class
+com\elavinchoweb\biblioteca\repositorios\LibroRepositorio.class
+com\elavinchoweb\biblioteca\BibliotecaApplication.class
+com\elavinchoweb\biblioteca\entidades\Libro.class
+com\elavinchoweb\biblioteca\repositorios\AutorRepositorio.class
+com\elavinchoweb\biblioteca\entidades\Editorial.class
+com\elavinchoweb\biblioteca\controladores\PortalControlador.class
+com\elavinchoweb\biblioteca\entidades\Autor.class
+com\elavinchoweb\biblioteca\controladores\EditorialControlador.class
+com\elavinchoweb\biblioteca\excepciones\MiException.class
+com\elavinchoweb\biblioteca\repositorios\EditorialRepositorio.class
+com\elavinchoweb\biblioteca\servicios\EditorialServicio.class
+com\elavinchoweb\biblioteca\servicios\AutorServicio.class
+com\elavinchoweb\biblioteca\controladores\AutorControlador.class
+com\elavinchoweb\biblioteca\controladores\LibroControlador.class
