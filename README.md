@@ -57,3 +57,8 @@ Este sistema tiene como finalidad gestionar el funcionamiento de una **Bibliotec
                           <img src="https://github.com/elavincho/SpringBootBiblioteca/blob/main/img/Captura_de_pantalla_10.png" width="200" height="200" alt="img"/>
                           <img src="https://github.com/elavincho/SpringBootBiblioteca/blob/main/img/Captura_de_pantalla_11.png" width="200" height="200" alt="img"/>
                           <img src="https://github.com/elavincho/SpringBootBiblioteca/blob/main/img/Captura_de_pantalla_12.png" width="200" height="200" alt="img"/>
+
+
+## Video del proyecto
+
+[![Video tutorial](https://github.com/elavincho/SpringBootBiblioteca/blob/main/img/img_video.png)](https://youtu.be/Ws8G2RZdYO0)
