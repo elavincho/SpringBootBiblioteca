@@ -29,19 +29,19 @@ Este sistema tiene como finalidad gestionar el funcionamiento de una **Bibliotec
 - Alta
 - Baja
 - Modificación
-- Vista
+- Lectura
 
 ### Libro
 - Alta
 - Baja
 - Modificación
-- Vista
+- Lectura
 
 ### Editorial
 - Alta
 - Baja
 - Modificación
-- Vista
+- Lectura
 
 ## Requisitos del Sistema
 - Java 11 o superior
