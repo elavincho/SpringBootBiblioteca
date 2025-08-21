@@ -1,3 +1,4 @@
+<img src="https://github.com/elavincho/SpringBootBiblioteca/blob/main/Spring_biblioteca/src/main/resources/static/img/biblioteca_moderna.jpg" width="80" height="80" alt="img"/>
 
 # Sistema para la administración de una **Biblioteca** con *Spring Boot*
 
