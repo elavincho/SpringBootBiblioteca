@@ -17,7 +17,7 @@ Este proyecto es un sistema para la administración de una **Biblioteca** el cua
 
 ## Objetivo del Proyecto
 
-Este sistema tiene como finalidad gestionar el funcionamiento de una **Biblioteca** teniendo las siguientes caracteristicas:
+Este sistema tiene como finalidad gestionar el funcionamiento de una **Biblioteca** teniendo las siguientes características:
 
 - CRUD de libros
 - CRUD de autores
@@ -44,10 +44,10 @@ Este sistema tiene como finalidad gestionar el funcionamiento de una **Bibliotec
 - Lectura
 
 ## Requisitos del Sistema
-- Java 11 o superior
+- Java 21 o superior
 - MySQL
 
-## Imagenes del proyecto
+## Imágenes del proyecto
 
 <img src="https://github.com/elavincho/SpringBootBiblioteca/blob/main/img/Captura_de_pantalla_1.png" width="200" height="200" alt="img"/>                      <img src="https://github.com/elavincho/SpringBootBiblioteca/blob/main/img/Captura_de_pantalla_2.png" width="200" height="200" alt="img"/>                          <img src="https://github.com/elavincho/SpringBootBiblioteca/blob/main/img/Captura_de_pantalla_3.png" width="200" height="200" alt="img"/>                          <img src="https://github.com/elavincho/SpringBootBiblioteca/blob/main/img/Captura_de_pantalla_4.png" width="200" height="200" alt="img"/>                          <img src="https://github.com/elavincho/SpringBootBiblioteca/blob/main/img/Captura_de_pantalla_5.png" width="200" height="200" alt="img"/>
                           <img src="https://github.com/elavincho/SpringBootBiblioteca/blob/main/img/Captura_de_pantalla_6.png" width="200" height="200" alt="img"/>
