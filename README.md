@@ -1,4 +1,4 @@
-<img src="https://github.com/elavincho/SpringBootBiblioteca/blob/main/Spring_biblioteca/src/main/resources/static/img/biblioteca_moderna.jpg" width="80" height="80" alt="img"/>
+<!-- <img src="https://github.com/elavincho/SpringBootBiblioteca/blob/main/Spring_biblioteca/src/main/resources/static/img/biblioteca_moderna.jpg" width="80" height="80" alt="img"/> -->
 
 # Sistema para la administración de una **Biblioteca** con *Spring Boot*
 
@@ -47,7 +47,7 @@ Este sistema tiene como finalidad gestionar el funcionamiento de una **Bibliotec
 ## Requisitos del Sistema
 - Java 21 o superior
 - MySQL
-
+<!--
 ## Imágenes del proyecto
 
 <img src="https://github.com/elavincho/SpringBootBiblioteca/blob/main/img/Captura_de_pantalla_1.png" width="200" height="200" alt="img"/>                      <img src="https://github.com/elavincho/SpringBootBiblioteca/blob/main/img/Captura_de_pantalla_2.png" width="200" height="200" alt="img"/>                          <img src="https://github.com/elavincho/SpringBootBiblioteca/blob/main/img/Captura_de_pantalla_3.png" width="200" height="200" alt="img"/>                          <img src="https://github.com/elavincho/SpringBootBiblioteca/blob/main/img/Captura_de_pantalla_4.png" width="200" height="200" alt="img"/>                          <img src="https://github.com/elavincho/SpringBootBiblioteca/blob/main/img/Captura_de_pantalla_5.png" width="200" height="200" alt="img"/>
@@ -63,3 +63,6 @@ Este sistema tiene como finalidad gestionar el funcionamiento de una **Bibliotec
 ## Video del proyecto
 
 [![Video tutorial](https://github.com/elavincho/SpringBootBiblioteca/blob/main/img/img_video.png)](https://youtu.be/Ws8G2RZdYO0)
+-->
+
+
