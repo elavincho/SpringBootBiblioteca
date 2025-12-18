@@ -64,5 +64,3 @@ Este sistema tiene como finalidad gestionar el funcionamiento de una **Bibliotec
 
 [![Video tutorial](https://github.com/elavincho/SpringBootBiblioteca/blob/main/img/img_video.png)](https://youtu.be/Ws8G2RZdYO0)
 
-
-
